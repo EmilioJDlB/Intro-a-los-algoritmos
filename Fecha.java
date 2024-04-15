@@ -101,7 +101,7 @@ public class Fecha
     }
     
     /**
-     * Cambia el año de la fecha. El nuevo año debe ser válido
+     * Camba el año de la fecha. El nuevo año debe ser válido
      * para el día y mes aactuales.
      */
     public void cambiarAnho(int nuevoAnho) {
